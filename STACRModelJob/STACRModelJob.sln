@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.1000
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{159641D6-6404-4A2A-AE62-294DE0FE8301}") = "STACRModelJob", "STACRModelJob\STACRModelJob.dtproj", "{35C1CBC2-3005-48D6-8214-6BC8662C6EF2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Development|Default = Development|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{35C1CBC2-3005-48D6-8214-6BC8662C6EF2}.Development|Default.ActiveCfg = Development
+		{35C1CBC2-3005-48D6-8214-6BC8662C6EF2}.Development|Default.Build.0 = Development
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {579F42AD-D0AF-4FED-A315-8B5E39B55858}
+	EndGlobalSection
+EndGlobal
